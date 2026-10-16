@@ -1,0 +1,6 @@
+{
+  "name": "WorkPulse HR - Attendance & Leave Management System",
+  "description": "Comprehensive enterprise attendance tracking and leave management application with dedicated employee logins, real-time clock-in/out, multi-level leave approvals, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
