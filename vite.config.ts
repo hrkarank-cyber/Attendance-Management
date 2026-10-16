@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Attendance-Management/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
